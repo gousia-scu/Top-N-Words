@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/hadoop-common-0.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/hadoop-common-2.6.0-cdh5.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/hadoop-common-instrumented-0.22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/hadoop-core-2.6.0-mr1-cdh5.13.0-20170822.164835-136.jar"/>
+	<classpathentry kind="lib" path="/Users/anjaly/eclipse-workspace/TopNWordsGreaterThanSixChars/libs/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
